@@ -20,11 +20,11 @@
     }
   ],
   "require": {
-    "php": ">=7.2",
+    "php": "^8.0",
     "guzzlehttp/guzzle": "^7.0",
     "ramsey/uuid": "^4",
-    "symfony/property-access": "^5",
-    "symfony/serializer": "^5",
+    "symfony/property-access": "^6",
+    "symfony/serializer": "^6",
     "ext-json": "*"
   },
   "autoload": {
